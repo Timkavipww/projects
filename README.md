@@ -1,3 +1,3 @@
 ﻿# projects
 
-См. также: [my-other-project](../dynamic_price_project)
+См. также: [Dynamic Pricing System for Rental Properties](./dynamic_price_project)
